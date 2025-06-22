@@ -57,11 +57,18 @@ cd internship-assignment
 
 ```bash
 npm install
+
+cd client
+npm install
+
+cd server
+npm install
 ```
 
 ### 3. Run the development server
 
 ```bash
+cd internship-assignment
 npm run dev
 ```
 
